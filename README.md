@@ -8,8 +8,6 @@
 I'm eager to connect with fellow data enthusiasts and professionals to exchange insights, collaborate, and grow together in the field of data analytics.
 Let's explore exciting data-driven projects and job prospects together!
 
-Best regards,
-kuppilisairama
 
 <!---
 kuppilisairama/kuppilisairama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
